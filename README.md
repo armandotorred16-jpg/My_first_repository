@@ -12,7 +12,7 @@
 
 # 🌌✨ WELCOME TO MY GITHUB ✨🌌
 
-## 💜 ARMANDO TORRED 💜
+##  ARMANDO TORRED 
 
 🎓 **BSIS Student**  
 🏫 **ZDSPGC – Midsalip Campus**  
